@@ -13,17 +13,17 @@ Ongoing
  - [] Color consistency optimization 
 
 
-Results
+Results (Not the final results)
 ----------
-* Grayscale image denoising
+* Region, Skeleton, Colorization result  
 
-  <img src="action_map/Figure_1.png" width="200px"/> 
-  <img src="action_map/Figure_2.png" width="200px"/> 
-
-
-
+  <img src="figure/region.png" width="200px"/> 
+  <img src="figure/skeleton.png" width="200px"/> 
+  <img src="figure/flat.png" width="200px"/> 
 
 
+
+unfinished to be continued...
 
 
 # Citation
