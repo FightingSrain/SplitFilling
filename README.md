@@ -1,6 +1,4 @@
-# Pytorch-SplitFilling
-
-`Pytorch reproduction of SplitFilling.`
+# SplitFilling
 
 `If it helps you with your research, please star it. 🎈`
 
