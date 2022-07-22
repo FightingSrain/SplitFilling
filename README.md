@@ -1,6 +1,7 @@
 # SplitFilling
 ![](https://img.shields.io/badge/Anime-Colorization-blue)
-
+`This is a personal project.`
+`Vivid anime image coloring is an interesting problem and we need to solve it!`
 `If it helps you with your research, please star it. 🎈`
 
 # Requirements and Dependencies
