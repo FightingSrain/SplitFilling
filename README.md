@@ -1,4 +1,5 @@
 # SplitFilling
+![](https://img.shields.io/badge/Anime-Colorization-blue)
 
 `If it helps you with your research, please star it. 🎈`
 
